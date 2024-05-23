@@ -1,0 +1,12 @@
+.guideError {
+  background-color: var(--ifm-color-error);
+  color: white;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 16px;
+  width: 100%;
+}
+.containerGuides {
+  display: flex;
+  flex-direction: column;
+}
