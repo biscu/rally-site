@@ -1,8 +1,8 @@
 ---
-slug: welcome
-title: Welcome
+slug: rally-documentation
+title: v0.10
 authors: davide
-tags: [facebook, hello, docusaurus]
+tags: [app, web, documentation]
 ---
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).

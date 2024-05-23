@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/rally-documentation",
+  "source": "@site/blog/2021-08-26-welcome/index.md",
+  "title": "v0.10",
+  "description": "Docusaurus blogging features are powered by the blog plugin.",
+  "date": "2021-08-26T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "app",
+      "permalink": "/blog/tags/app"
+    },
+    {
+      "label": "web",
+      "permalink": "/blog/tags/web"
+    },
+    {
+      "label": "documentation",
+      "permalink": "/blog/tags/documentation"
+    }
+  ],
+  "readingTime": 0.29,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Davide Biscuso",
+      "title": "Dasigner",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/biscu.png",
+      "key": "davide"
+    }
+  ],
+  "frontMatter": {
+    "slug": "rally-documentation",
+    "title": "v0.10",
+    "authors": "davide",
+    "tags": [
+      "app",
+      "web",
+      "documentation"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  }
+}

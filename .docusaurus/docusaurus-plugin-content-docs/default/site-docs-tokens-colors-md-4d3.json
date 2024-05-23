@@ -1,0 +1,17 @@
+{
+  "id": "Tokens/colors",
+  "title": "Colors",
+  "description": "Here we list all the base, semantic token.",
+  "source": "@site/docs/Tokens/colors.md",
+  "sourceDirName": "Tokens",
+  "slug": "/Tokens/colors",
+  "permalink": "/docs/Tokens/colors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

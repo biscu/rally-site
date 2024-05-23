@@ -1,0 +1,26 @@
+{
+  "id": "Patterns/navigation",
+  "title": "Navigation",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/web/Patterns/navigation.md",
+  "sourceDirName": "Patterns",
+  "slug": "/Patterns/navigation",
+  "permalink": "/web/Patterns/navigation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "brandSidebars",
+  "previous": {
+    "title": "Pattern",
+    "permalink": "/web/Patterns/"
+  },
+  "next": {
+    "title": "Tokens",
+    "permalink": "/web/Tokens/"
+  }
+}

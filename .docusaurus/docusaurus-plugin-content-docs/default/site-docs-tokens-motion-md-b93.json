@@ -1,0 +1,17 @@
+{
+  "id": "Tokens/motion",
+  "title": "Motion",
+  "description": "Here we list all the base, semantic token.",
+  "source": "@site/docs/Tokens/motion.md",
+  "sourceDirName": "Tokens",
+  "slug": "/Tokens/motion",
+  "permalink": "/docs/Tokens/motion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Components/index",
+  "title": "Components",
+  "description": "",
+  "source": "@site/app/Components/index.md",
+  "sourceDirName": "Components",
+  "slug": "/Components/",
+  "permalink": "/app/Components/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rally App",
+    "permalink": "/app/intro"
+  },
+  "next": {
+    "title": "Button",
+    "permalink": "/app/Components/button"
+  }
+}

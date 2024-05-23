@@ -1,0 +1,19 @@
+{
+  "id": "Components/index",
+  "title": "Components",
+  "description": "",
+  "source": "@site/web/Components/index.md",
+  "sourceDirName": "Components",
+  "slug": "/Components/",
+  "permalink": "/web/Components/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "brandSidebars",
+  "next": {
+    "title": "Button",
+    "permalink": "/web/Components/button"
+  }
+}

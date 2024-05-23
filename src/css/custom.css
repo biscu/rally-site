@@ -18,6 +18,9 @@
   --ifm-color-primary: #872878;
   --ifm-color-success: #3cad6e;
   --ifm-color-error: #ffa0a0;
+  --rally-color-primary: #ebe7df;
+  --rally-text-color: #2d2d2b;
+  --rally-hover: #f8f8f8;
   --ifm-font-family-base: "Inter";
   font-size: 16px;
 }
@@ -27,4 +30,7 @@
   --ifm-color-primary: #da95cf;
   --ifm-color-success: #033719;
   --ifm-color-error: #3c0301;
+  --rally-color-primary: #2d2d2b;
+  --rally-text-color: #ebe7df;
+  --rally-hover: #1f1f1f;
 }

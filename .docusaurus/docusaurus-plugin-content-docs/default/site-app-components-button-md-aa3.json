@@ -1,0 +1,26 @@
+{
+  "id": "Components/button",
+  "title": "Button",
+  "description": "Buttons let people take action and make choices with one tap.",
+  "source": "@site/app/Components/button.md",
+  "sourceDirName": "Components",
+  "slug": "/Components/button",
+  "permalink": "/app/Components/button",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Components",
+    "permalink": "/app/Components/"
+  },
+  "next": {
+    "title": "Pattern",
+    "permalink": "/app/Patterns/"
+  }
+}

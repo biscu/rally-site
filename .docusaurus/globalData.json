@@ -1,0 +1,142 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/app",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/app",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Components/button",
+              "path": "/app/Components/button",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Components/index",
+              "path": "/app/Components/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/app/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Patterns/index",
+              "path": "/app/Patterns/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Patterns/navigation",
+              "path": "/app/Patterns/navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tokens/colors",
+              "path": "/app/Tokens/colors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tokens/index",
+              "path": "/app/Tokens/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tokens/motion",
+              "path": "/app/Tokens/motion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tokens/spacing",
+              "path": "/app/Tokens/spacing",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/app/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "web": {
+      "path": "/web",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/web",
+          "mainDocId": "Components/index",
+          "docs": [
+            {
+              "id": "Components/button",
+              "path": "/web/Components/button",
+              "sidebar": "brandSidebars"
+            },
+            {
+              "id": "Components/index",
+              "path": "/web/Components/",
+              "sidebar": "brandSidebars"
+            },
+            {
+              "id": "intro",
+              "path": "/web/intro",
+              "sidebar": "brandSidebars"
+            },
+            {
+              "id": "Patterns/index",
+              "path": "/web/Patterns/",
+              "sidebar": "brandSidebars"
+            },
+            {
+              "id": "Patterns/navigation",
+              "path": "/web/Patterns/navigation",
+              "sidebar": "brandSidebars"
+            },
+            {
+              "id": "Tokens/colors",
+              "path": "/web/Tokens/colors",
+              "sidebar": "brandSidebars"
+            },
+            {
+              "id": "Tokens/index",
+              "path": "/web/Tokens/",
+              "sidebar": "brandSidebars"
+            },
+            {
+              "id": "Tokens/motion",
+              "path": "/web/Tokens/motion",
+              "sidebar": "brandSidebars"
+            },
+            {
+              "id": "Tokens/spacing",
+              "path": "/web/Tokens/spacing",
+              "sidebar": "brandSidebars"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "brandSidebars": {
+              "link": {
+                "path": "/web/Components/",
+                "label": "Components"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

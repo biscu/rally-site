@@ -1,0 +1,14 @@
+{
+  "id": "Patterns/index",
+  "title": "Pattern",
+  "description": "",
+  "source": "@site/docs/Patterns/index.md",
+  "sourceDirName": "Patterns",
+  "slug": "/Patterns/",
+  "permalink": "/docs/Patterns/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

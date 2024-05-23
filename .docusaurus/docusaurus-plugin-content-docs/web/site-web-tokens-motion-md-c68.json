@@ -1,0 +1,26 @@
+{
+  "id": "Tokens/motion",
+  "title": "Motion",
+  "description": "Here we list all the base, semantic token.",
+  "source": "@site/web/Tokens/motion.md",
+  "sourceDirName": "Tokens",
+  "slug": "/Tokens/motion",
+  "permalink": "/web/Tokens/motion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "brandSidebars",
+  "previous": {
+    "title": "Spacing",
+    "permalink": "/web/Tokens/spacing"
+  },
+  "next": {
+    "title": "Rally Web",
+    "permalink": "/web/intro"
+  }
+}

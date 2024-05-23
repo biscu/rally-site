@@ -1,0 +1,19 @@
+{
+  "id": "index",
+  "title": "01 Rally App",
+  "description": "",
+  "source": "@site/app/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/app/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Motion",
+    "permalink": "/app/Tokens/motion"
+  }
+}

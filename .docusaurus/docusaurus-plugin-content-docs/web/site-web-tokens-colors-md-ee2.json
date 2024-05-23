@@ -1,0 +1,26 @@
+{
+  "id": "Tokens/colors",
+  "title": "Colors",
+  "description": "Here we list all the base, semantic token.",
+  "source": "@site/web/Tokens/colors.md",
+  "sourceDirName": "Tokens",
+  "slug": "/Tokens/colors",
+  "permalink": "/web/Tokens/colors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "brandSidebars",
+  "previous": {
+    "title": "Tokens",
+    "permalink": "/web/Tokens/"
+  },
+  "next": {
+    "title": "Spacing",
+    "permalink": "/web/Tokens/spacing"
+  }
+}

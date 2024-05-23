@@ -1,0 +1,23 @@
+{
+  "id": "Patterns/index",
+  "title": "Pattern",
+  "description": "",
+  "source": "@site/app/Patterns/index.md",
+  "sourceDirName": "Patterns",
+  "slug": "/Patterns/",
+  "permalink": "/app/Patterns/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Button",
+    "permalink": "/app/Components/button"
+  },
+  "next": {
+    "title": "Navigation",
+    "permalink": "/app/Patterns/navigation"
+  }
+}

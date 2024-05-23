@@ -1,0 +1,19 @@
+{
+  "id": "intro",
+  "title": "Rally Web",
+  "description": "",
+  "source": "@site/web/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/web/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "brandSidebars",
+  "previous": {
+    "title": "Motion",
+    "permalink": "/web/Tokens/motion"
+  }
+}

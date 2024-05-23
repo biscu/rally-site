@@ -1,0 +1,23 @@
+{
+  "id": "Tokens/index",
+  "title": "Tokens",
+  "description": "<ThemedImage",
+  "source": "@site/app/Tokens/index.md",
+  "sourceDirName": "Tokens",
+  "slug": "/Tokens/",
+  "permalink": "/app/Tokens/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navigation",
+    "permalink": "/app/Patterns/navigation"
+  },
+  "next": {
+    "title": "Colors",
+    "permalink": "/app/Tokens/colors"
+  }
+}

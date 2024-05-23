@@ -1,0 +1,17 @@
+{
+  "permalink": "/blog/index",
+  "source": "@site/blog/index.md",
+  "title": "Blog",
+  "description": "",
+  "date": "2024-05-23T12:09:58.361Z",
+  "tags": [],
+  "readingTime": 0,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {},
+  "unlisted": false,
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}

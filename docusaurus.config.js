@@ -41,6 +41,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: "app", // Change this to 'app'
+          routeBasePath: "app", // Optional: change the base URL path from /docs to /app
           sidebarPath: "./sidebars.js",
         },
         blog: {
@@ -80,17 +82,17 @@ const config = {
         },
         items: [
           {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            type: "doc",
             position: "left",
+            docId: "intro",
             label: "App",
-            "aria-label": "aria label",
           },
           {
-            href: "/web",
+            type: "doc",
+            docsPluginId: "web",
+            docId: "intro",
             position: "left",
             label: "Web",
-            "aria-label": "aria label",
           },
           { to: "/blog", label: "What's new", position: "left" },
         ],

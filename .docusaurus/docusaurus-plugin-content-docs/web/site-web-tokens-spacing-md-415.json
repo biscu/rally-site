@@ -1,0 +1,26 @@
+{
+  "id": "Tokens/spacing",
+  "title": "Spacing",
+  "description": "Here we list all the base, semantic token.",
+  "source": "@site/web/Tokens/spacing.md",
+  "sourceDirName": "Tokens",
+  "slug": "/Tokens/spacing",
+  "permalink": "/web/Tokens/spacing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "brandSidebars",
+  "previous": {
+    "title": "Colors",
+    "permalink": "/web/Tokens/colors"
+  },
+  "next": {
+    "title": "Motion",
+    "permalink": "/web/Tokens/motion"
+  }
+}

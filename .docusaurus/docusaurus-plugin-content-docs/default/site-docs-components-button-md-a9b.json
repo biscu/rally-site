@@ -1,0 +1,17 @@
+{
+  "id": "Components/button",
+  "title": "Button",
+  "description": "Buttons let people take action and make choices with one tap.",
+  "source": "@site/docs/Components/button.md",
+  "sourceDirName": "Components",
+  "slug": "/Components/button",
+  "permalink": "/docs/Components/button",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}
